@@ -78,3 +78,7 @@ margin: 20px;
 nav h1 .web{
 	color: white;
 }
+
+#responsive {
+	 aspect-ratio: 100 / 29;
+}
